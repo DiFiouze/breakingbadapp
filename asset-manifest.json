@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/difiouze/breakingbadapp/static/css/main.64d78e4b.chunk.css",
-    "main.js": "/difiouze/breakingbadapp/static/js/main.e071a22d.chunk.js",
-    "main.js.map": "/difiouze/breakingbadapp/static/js/main.e071a22d.chunk.js.map",
-    "runtime-main.js": "/difiouze/breakingbadapp/static/js/runtime-main.2742aa1d.js",
-    "runtime-main.js.map": "/difiouze/breakingbadapp/static/js/runtime-main.2742aa1d.js.map",
-    "static/js/2.b694732d.chunk.js": "/difiouze/breakingbadapp/static/js/2.b694732d.chunk.js",
-    "static/js/2.b694732d.chunk.js.map": "/difiouze/breakingbadapp/static/js/2.b694732d.chunk.js.map",
-    "index.html": "/difiouze/breakingbadapp/index.html",
-    "precache-manifest.85bf06b96b87961469acaa9de2eb8dc1.js": "/difiouze/breakingbadapp/precache-manifest.85bf06b96b87961469acaa9de2eb8dc1.js",
-    "service-worker.js": "/difiouze/breakingbadapp/service-worker.js",
-    "static/css/main.64d78e4b.chunk.css.map": "/difiouze/breakingbadapp/static/css/main.64d78e4b.chunk.css.map",
-    "static/js/2.b694732d.chunk.js.LICENSE.txt": "/difiouze/breakingbadapp/static/js/2.b694732d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/difiouze/breakingbadapp/static/media/bg.1be2d3a0.jpg",
-    "static/media/logo.png": "/difiouze/breakingbadapp/static/media/logo.3795f66d.png",
-    "static/media/spinner.gif": "/difiouze/breakingbadapp/static/media/spinner.235b9b3e.gif"
+    "main.css": "/breakingbadapp/static/css/main.e44b24ca.chunk.css",
+    "main.js": "/breakingbadapp/static/js/main.ab8e1977.chunk.js",
+    "main.js.map": "/breakingbadapp/static/js/main.ab8e1977.chunk.js.map",
+    "runtime-main.js": "/breakingbadapp/static/js/runtime-main.2bcfe4da.js",
+    "runtime-main.js.map": "/breakingbadapp/static/js/runtime-main.2bcfe4da.js.map",
+    "static/js/2.b694732d.chunk.js": "/breakingbadapp/static/js/2.b694732d.chunk.js",
+    "static/js/2.b694732d.chunk.js.map": "/breakingbadapp/static/js/2.b694732d.chunk.js.map",
+    "index.html": "/breakingbadapp/index.html",
+    "precache-manifest.99acc6ff94b179e27eb30c8ede65580c.js": "/breakingbadapp/precache-manifest.99acc6ff94b179e27eb30c8ede65580c.js",
+    "service-worker.js": "/breakingbadapp/service-worker.js",
+    "static/css/main.e44b24ca.chunk.css.map": "/breakingbadapp/static/css/main.e44b24ca.chunk.css.map",
+    "static/js/2.b694732d.chunk.js.LICENSE.txt": "/breakingbadapp/static/js/2.b694732d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breakingbadapp/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/breakingbadapp/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/breakingbadapp/static/media/spinner.235b9b3e.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.2742aa1d.js",
+    "static/js/runtime-main.2bcfe4da.js",
     "static/js/2.b694732d.chunk.js",
-    "static/css/main.64d78e4b.chunk.css",
-    "static/js/main.e071a22d.chunk.js"
+    "static/css/main.e44b24ca.chunk.css",
+    "static/js/main.ab8e1977.chunk.js"
   ]
 }
