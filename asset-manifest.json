@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DiFiouze/breakingbadapp/static/css/main.95c50221.chunk.css",
+    "main.js": "/DiFiouze/breakingbadapp/static/js/main.94e360af.chunk.js",
+    "main.js.map": "/DiFiouze/breakingbadapp/static/js/main.94e360af.chunk.js.map",
+    "runtime-main.js": "/DiFiouze/breakingbadapp/static/js/runtime-main.f17c96dd.js",
+    "runtime-main.js.map": "/DiFiouze/breakingbadapp/static/js/runtime-main.f17c96dd.js.map",
+    "static/js/2.b694732d.chunk.js": "/DiFiouze/breakingbadapp/static/js/2.b694732d.chunk.js",
+    "static/js/2.b694732d.chunk.js.map": "/DiFiouze/breakingbadapp/static/js/2.b694732d.chunk.js.map",
+    "index.html": "/DiFiouze/breakingbadapp/index.html",
+    "precache-manifest.968b4a18f27c0b93e5e8d8ad463f966b.js": "/DiFiouze/breakingbadapp/precache-manifest.968b4a18f27c0b93e5e8d8ad463f966b.js",
+    "service-worker.js": "/DiFiouze/breakingbadapp/service-worker.js",
+    "static/css/main.95c50221.chunk.css.map": "/DiFiouze/breakingbadapp/static/css/main.95c50221.chunk.css.map",
+    "static/js/2.b694732d.chunk.js.LICENSE.txt": "/DiFiouze/breakingbadapp/static/js/2.b694732d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DiFiouze/breakingbadapp/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/DiFiouze/breakingbadapp/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/DiFiouze/breakingbadapp/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f17c96dd.js",
+    "static/js/2.b694732d.chunk.js",
+    "static/css/main.95c50221.chunk.css",
+    "static/js/main.94e360af.chunk.js"
+  ]
+}
